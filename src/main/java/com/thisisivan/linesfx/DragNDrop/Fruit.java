@@ -1,4 +1,4 @@
-package DragAndDropExample;
+package com.thisisivan.linesfx.DragNDrop;
 
 import java.io.Serializable;
 

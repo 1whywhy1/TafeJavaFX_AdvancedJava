@@ -1,4 +1,4 @@
-package DragAndDropExample;
+package com.thisisivan.linesfx.DragNDrop;
 
 import java.util.ArrayList;
 import java.util.List;

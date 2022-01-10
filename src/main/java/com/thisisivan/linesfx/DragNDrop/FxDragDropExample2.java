@@ -1,4 +1,4 @@
-package DragAndDropExample;
+package com.thisisivan.linesfx.DragNDrop;
 
 import javafx.application.Application;
 import javafx.event.EventHandler;
